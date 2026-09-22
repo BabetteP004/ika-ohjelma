@@ -9,7 +9,7 @@ public class App {
  }
     else if (ika >= 65)
  {
-      System.our.println("Olet elakelainen");
+      System.out.println("Olet elakelainen");
  }
     else
 {
