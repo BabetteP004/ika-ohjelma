@@ -3,7 +3,7 @@ public class App {
       
  int ika = 20;
  // Tulostusehdot
- if (ika > 0 && ika < 18)
+ if (ika >= 0 && ika < 18)
 {
       System.out.println("Olet alaikainen");
  }
